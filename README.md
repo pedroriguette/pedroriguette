@@ -1,5 +1,4 @@
 - 👋 hi my name is Pedro Riguette
-- 📘 Estudo Python e faço ADS
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroriguette&show_icons=true/>
