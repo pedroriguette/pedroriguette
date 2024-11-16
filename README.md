@@ -1,4 +1,4 @@
-- 👋 Oi me chamo Pedro estudo Analise e Desenvolvimento de Sistema na Uniasselvi, já estou no segundo semestre, mas também estudo cursos por fora.
+- 👋 Oi me chamo Pedro estudo Analise e Desenvolvimento de Sistema na Uniasselvi, já estou no terceiro semestre, mas também estudo cursos por fora.
 - Meu primeiro contato com programção foi com a linguagem python, comecei como grande parte de grandes programadores brasileiros, assistindo videos do Youtube no canal Curso em video e depois fui aprimorando buscando curso na internet.
 - Estou tendo minha primeira experiencia no Home Office em uma empresa de Varejo iniciei em janeiro de 2024, mas não como desenvolvedor e sim Homologador.
 
