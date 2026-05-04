@@ -1,21 +1,20 @@
 - 👋 Oi me chamo Pedro, estudo Analise e Desenvolvimento de Sistema na Uniasselvi, já estou no último semestre, mas também estudo cursos por fora.
-- Meu primeiro contato com programção foi com a linguagem python, comecei como grande parte de grandes programadores brasileiros, assistindo videos do Youtube no canal Curso em video e depois fui aprimorando buscando curso na internet.
-- Estou tendo minha primeira experiencia no Home Office em uma empresa de Varejo iniciei em janeiro de 2024, mas não como desenvolvedor e sim Homologador.
+- Meu primeiro contato com programção foi com a linguagem python, comecei como grande parte de grandes programadores brasileiros, assistindo videos do Youtube no canal Curso em video e depois fui aprimorando buscando cursos na internet.
+- Atualmente estou desempregado e procurando vagas na área de Desenvolvimento WEB.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroriguette&show_icons=true/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroriguette&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroriguette&show_icons=true&theme=dark"
-</div>
 
-<div>
-  <body>
-    <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img align="center" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-    <img align="center" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" />
-    <img align="center" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align="center" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    <img align="center" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  </body>
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<div align="center">
+  <h2>🚀 Minhas Tecnologias</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 </div>
