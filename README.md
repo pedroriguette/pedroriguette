@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Pedro Gabriel Medeiros Riguette, tenho 21 anos e sou natural do Pará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Tenha uma paixão por tecnologia e atualmente busco minha primeira oportunidade no mercado na Área de Desenvolvimento de API. Além disso, eu faço alguns cursos por fora na OneBit Code e Alura para aprimora minhas habilidades em Desenvolvimento de Software.
+Desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com foco em back-end e desenvolvimento web. Experiência prática em Python (Django, Django REST Framework e FastAPI) e Node.js (Express), na criação de APIs RESTful e aplicações completas, com uso de Docker, Git e AWS. Possui projetos publicados e hospedados em nuvem.
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
